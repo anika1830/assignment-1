@@ -1,0 +1,41 @@
+Question 4: Write a short note on tag and
+element with an example?
+Answer 4: HTML TAG :HTML tags are the
+keywords on a web page that define how your
+web browser must format and display your web
+page.
+There are a total of 100 HTML tags. We will
+divide them into categories and discuss the
+important ones in this article.
+Head Tag
+The head tag <head> contains all the elements describing the
+document.
+Title Tag
+The title tag <title> specifies the HTML page title, which is shown in
+the browser’s title bar.
+Body Tag
+The body tag <body> is where you insert your web page’s content.
+Paragraph Tag
+A paragraph tag <p> is used to define a paragraph on a web page.
+Heading Tag
+
+The HTML heading tag is used to define the heading of the HTML
+document. The <h1> tag defines the most important tag, and <h6>
+defines the least.
+For example, <html> is the opening tag and </html> is the closing
+tag.
+HTML ELEMENT : An HTML element is defined by a start tag,
+some content, and an end tag.
+The HTML element is everything from the start tag to the end tag:
+<tagname>Content goes here...</tagname>
+In HTML, an element is a section of an HTML document. Some
+HTML elements represent visible components on a web page,
+such as text, images, or buttons, while others denote different
+sections of the page or provide meta-information about the
+document.
+There are three kinds of HTML elements: normal elements, raw
+text elements, and void elements.
+Examples of some HTML elements:
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
